@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ZendeskConfigBackup": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ZENDESK_CLIENT_SECRET": "4473802bb8140421f2596cccd942be63cacbbf2e97193d00fad00cb214f73318"
+      }
+    }
+  }
+}
